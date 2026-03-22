@@ -33,8 +33,7 @@
 - 🌱 I love creating **responsive web apps**, **smart systems**, and **real-world solutions**
 - 🧠 I enjoy mixing **software engineering** with **AI-powered innovation**
 - 🎯 My focus is on **clean design**, **efficient backend systems**, and **practical ML applications**
-- 📫 Reach me at: **YOUR_EMAIL**
-- 🌐 Portfolio: **YOUR_PORTFOLIO_LINK**
+- 🌐 Portfolio: **(https://thenushansritharan.netlify.app/)**
 
 <br clear="right"/>
 
