@@ -33,7 +33,7 @@
 - 🌱 I love creating **responsive web apps**, **smart systems**, and **real-world solutions**
 - 🧠 I enjoy mixing **software engineering** with **AI-powered innovation**
 - 🎯 My focus is on **clean design**, **efficient backend systems**, and **practical ML applications**
-- 🌐 Portfolio: **(https://thenushansritharan.netlify.app/)**
+- 🌐 Portfolio: [thenushansritharan.netlify.app](https://thenushansritharan.netlify.app/)
 
 <br clear="right"/>
 
@@ -87,3 +87,18 @@ Currently Exploring:
   - Advanced AI Integration
   - Smart Automation Systems
   - Modern Frontend Architecture
+```
+
+## ⚡ Fun Fact
+
+I enjoy combining full stack development with AI/ML to build smart, practical, and impactful digital products.
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m always open to collaborating on exciting projects in full stack development, AI/ML, and innovative digital solutions.
+
+<p align="center">
+  <b><i>"Building modern digital experiences powered by code and intelligence."</i></b>
+</p>
