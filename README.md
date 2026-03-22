@@ -10,17 +10,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="GitHub followers" />
+  <a href="https://github.com/Thenushan05">
+    <img src="https://img.shields.io/github/followers/Thenushan05?style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
+  <a href="https://github.com/Thenushan05">
+    <img src="https://img.shields.io/github/stars/Thenushan05?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub stars" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
