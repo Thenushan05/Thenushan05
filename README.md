@@ -34,7 +34,7 @@ src="https://komarev.com/ghpvc/?username=Thenushan05&style=for-the-badge&color=2
 alt="Profile views"
 />
 
-<a href="[thenushan.netlify.app](https://thenushan.netlify.app/)">
+<a href="https://thenushan.netlify.app/">
   <img
     src="https://img.shields.io/badge/Portfolio-Visit_Website-0891B2?style=for-the-badge&logo=netlify&logoColor=white"
     alt="Portfolio website"
