@@ -59,7 +59,7 @@ I enjoy building modern web applications, intelligent systems, scalable APIs, an
 * 🚀 Turning ideas into useful and maintainable digital products
 * 🌱 Continuously learning modern technologies and best practices
 
-🌐 **Portfolio:** [[thenushansritharan.netlify.app](https://thenushansritharan.netlify.app/)](https://thenushan.netlify.app/)
+🌐 **Portfolio:** [[thenushan.netlify.app](https://thenushan.netlify.app/)]
 
 ---
 
